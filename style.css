@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: #191970;
+    color: white;
+    padding: 10px;
+}
+
+header a {
+    color: white;
+    border: 2px solid white;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+h1 {
+    border: 3px solid #0000CD;
+    border-radius: 30px;
+    text-align: center;
+    color: ;
+    padding: 5px;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #191970;
+    color: white;
+    padding: 20px;
+}
+
+nav {
+    padding: 20px;
+}
+
+nav a {
+    margin: 20px;
+    text-decoration: none;
+    border: 2px solid #191970;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.all {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
